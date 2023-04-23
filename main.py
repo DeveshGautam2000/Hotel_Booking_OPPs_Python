@@ -34,7 +34,6 @@ class ReservationTicket:
         Name: {self.customer_name}
         Hotel name: {self.hotel.name}
         """
-
         return content
 
 
